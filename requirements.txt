@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+matplotlib
+torch
+geopandas
+shapely
+rasterio
+pyproj
+flopy
+python-docx
+lxml
+latex2mathml
+pytest
